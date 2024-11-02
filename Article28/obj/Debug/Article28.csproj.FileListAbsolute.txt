@@ -1,0 +1,10 @@
+D:\Window\LucThiHanhNhi_2122110565_Giaodien\Article28\bin\Debug\Article28.exe.config
+D:\Window\LucThiHanhNhi_2122110565_Giaodien\Article28\bin\Debug\Article28.exe
+D:\Window\LucThiHanhNhi_2122110565_Giaodien\Article28\bin\Debug\Article28.pdb
+D:\Window\LucThiHanhNhi_2122110565_Giaodien\Article28\obj\Debug\Article28.csproj.AssemblyReference.cache
+D:\Window\LucThiHanhNhi_2122110565_Giaodien\Article28\obj\Debug\Article28.Form1.resources
+D:\Window\LucThiHanhNhi_2122110565_Giaodien\Article28\obj\Debug\Article28.Properties.Resources.resources
+D:\Window\LucThiHanhNhi_2122110565_Giaodien\Article28\obj\Debug\Article28.csproj.GenerateResource.cache
+D:\Window\LucThiHanhNhi_2122110565_Giaodien\Article28\obj\Debug\Article28.csproj.CoreCompileInputs.cache
+D:\Window\LucThiHanhNhi_2122110565_Giaodien\Article28\obj\Debug\Article28.exe
+D:\Window\LucThiHanhNhi_2122110565_Giaodien\Article28\obj\Debug\Article28.pdb
